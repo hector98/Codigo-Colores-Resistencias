@@ -1,1 +1,3 @@
-# Aplicacion Web para conocer el valor de una resistencia electrica en base a sus colores de sus bandas
+# Aplicacion Web para conocer el valor de una resistencia electrica en base al color de sus bandas
+
+## Working on it...
